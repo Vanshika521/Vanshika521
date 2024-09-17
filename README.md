@@ -1,4 +1,4 @@
-### Hi, I’m Vanshika Rani!
+### **Hi, I’m Vanshika Rani!**
 
 👨🏻‍💻 ***Aspiring Java*** and ***Android Developer*** sharing my journey and learnings in tech.<br/>
 👨🏻‍🎓 Computer Science undergrad with internships at ***Infosys***, ***CodSoft***, and ***Prodigy InfoTech***.<br/>
