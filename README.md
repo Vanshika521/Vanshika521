@@ -43,7 +43,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="v-meenakshi-iyer-23505722a" height="30" width="40" />
   </a>
 
-  <a href="https://dev.to/meenakshiiyer2531" target="blank">
+  <a href="https://vanshika521.github.io/" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=UGfrOrAKSVgU&format=png&color=FFFFFF" alt="meenakshiiyer2531" height="30" width="40" />
   </a>
 
