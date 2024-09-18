@@ -8,7 +8,7 @@
 🚀 Developing projects like a [Flight Management System](https://github.com/Vanshika521/Flight-Management-System.git), [Password Generator and Manager](https://github.com/Vanshika521/Password-Generator-And-Manager-.git) showcasing my skills in Java, Android, Firebase, and SQL.<br/>
 
  
-# 📊 GitHub Stats:
+#   Commit Chronicles  📚:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Vanshika521&theme=dracula&point=ff4d88)
 <!--![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanshika521&count_private=true&show_icons=true&theme=dracula&hide_rank=false)-->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=Vanshika521&theme=dracula&hide_border=false)
@@ -17,9 +17,11 @@
 -->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshika521&theme=dracula&hide_border=false" alt="GitHub Streak Stats" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika521&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshika521&theme=dracula&hide_border=false" alt="GitHub Streak Stats" height="200" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika521&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200" />
 </div>
+
+
 
 
 
