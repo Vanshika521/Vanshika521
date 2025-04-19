@@ -9,8 +9,9 @@
 
  
 #   Commit Chronicles  📚:
-![](https://github-readme-activity-graph.vercel.app/graph?username=Vanshika521&theme=dracula&point=ff4d88)
-<!--![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanshika521&count_private=true&show_icons=true&theme=dracula&hide_rank=false)-->
+
+<!--![](https://github-readme-activity-graph.vercel.app/graph?username=Vanshika521&theme=dracula&point=ff4d88)
+![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanshika521&count_private=true&show_icons=true&theme=dracula&hide_rank=false)-->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=Vanshika521&theme=dracula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika521&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
